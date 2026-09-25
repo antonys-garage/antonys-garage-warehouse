@@ -81,3 +81,13 @@ requests go directly from your browser to the seller sites you've added.
 
 MIT — see [LICENSE](LICENSE). Fork it, add your own stores, send a pull
 request if you build something worth sharing back.
+
+## Connect
+
+- GitHub: https://github.com/antonys-garage
+- LinkedIn: https://www.linkedin.com/company/antonys-garage
+- Instagram: https://www.instagram.com/code_antony/
+- YouTube: https://www.youtube.com/@code_antony
+- Facebook: https://www.facebook.com/codeantony
+- Threads: https://www.threads.com/@code_antony/
+- Email: info.antonysgarage@gmail.com
