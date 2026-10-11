@@ -67,3 +67,8 @@ select{padding:8px 10px;border-radius:8px;border:1px solid var(--border);backgro
 .prod a.buy{font-size:12px;text-align:center;padding:7px;border-radius:8px;border:1px solid var(--accent);color:var(--accent);text-decoration:none;margin-top:4px}
 .prod .cardActions{display:flex;gap:6px;margin-top:4px}
 .prod .cardActions .buy{flex:1;margin-top:0}
+.footer{margin-top:32px;padding-top:18px;border-top:1px solid var(--border);text-align:center}
+.footerBrand{font-size:12.5px;color:var(--sub);margin-bottom:8px}
+.footerLinks{display:flex;gap:14px;justify-content:center;flex-wrap:wrap}
+.footerLinks a{color:var(--accent);text-decoration:none;font-size:12.5px}
+.footerLinks a:hover{text-decoration:underline}

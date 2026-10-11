@@ -3,6 +3,7 @@
   "name": "Antony's Garage Warehouse",
   "version": "1.0",
   "description": "Source smarter, build faster — search all your electronics seller sites at once and see real prices side by side.",
+  "homepage_url": "https://github.com/antonys-garage",
   "permissions": ["storage"],
   "optional_host_permissions": ["https://*/*", "http://*/*"],
   "host_permissions": [
