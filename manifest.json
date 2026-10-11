@@ -1,0 +1,78 @@
+{
+  "manifest_version": 3,
+  "name": "Antony's Garage Warehouse",
+  "version": "1.0",
+  "description": "Source smarter, build faster — search all your electronics seller sites at once and see real prices side by side.",
+  "permissions": ["storage"],
+  "optional_host_permissions": ["https://*/*", "http://*/*"],
+  "host_permissions": [
+    "https://*.tomsonelectronics.com/*",
+    "https://*.etstore.in/*",
+    "https://*.makerbazar.in/*",
+    "https://*.robocraze.com/*",
+    "https://*.hubtronics.in/*",
+    "https://*.robu.in/*",
+    "https://*.flyrobo.in/*",
+    "https://*.rytronics.in/*",
+    "https://*.techtonics.in/*",
+    "https://*.evelta.com/*",
+    "https://*.ifuturetech.org/*",
+    "https://*.robodo.in/*",
+    "https://*.pcbcupid.com/*",
+    "https://*.thinkrobotics.com/*",
+    "https://*.ktron.in/*",
+    "https://*.silverlineelectronics.in/*",
+    "https://*.rhydolabz.com/*",
+    "https://*.oceanlabz.in/*",
+    "https://*.tenettech.com/*",
+    "https://*.stemvolt.in/*",
+    "https://*.olobit.in/*",
+    "https://*.harishprojects.com/*",
+    "https://*.indianhobbycenter.com/*",
+    "https://*.hacktronics.co/*",
+    "https://*.techiesms.com/*",
+    "https://*.esclabs.in/*",
+    "https://*.mifraelectronics.com/*",
+    "https://*.rees52.com/*",
+    "https://*.chiptronicx.com/*",
+    "https://*.theengineerstore.in/*",
+    "https://*.robobazar.in/*",
+    "https://*.robotools.in/*",
+    "https://*.depoke.in/*",
+    "https://*.bonzicart.com/*",
+    "https://*.punoscho.in/*",
+    "https://*.pandabyte.in/*",
+    "https://*.techhobby.in/*",
+    "https://*.silicontechnolabs.in/*",
+    "https://*.rarecomponents.com/*",
+    "https://*.openelab.com/*",
+    "https://*.controllerstech.com/*",
+    "https://*.erltechonline.com/*",
+    "https://*.atozelectronix.com/*",
+    "https://*.elecsynergy.in/*",
+    "https://*.roboracter.in/*",
+    "https://*.kitsguru.com/*"
+  ],
+  "background": { "service_worker": "background.js" },
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    },
+    "default_title": "Antony's Garage Warehouse"
+  },
+  "commands": {
+    "_execute_action": {
+      "suggested_key": { "default": "Ctrl+Shift+H", "mac": "Command+Shift+H" },
+      "description": "Open Antony's Garage Warehouse"
+    }
+  }
+}
